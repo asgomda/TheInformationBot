@@ -1,5 +1,5 @@
 # TheInformationBot
-The information Bot is a telegram bot capable of telling the plot and genres of movies as well as the stock prices for various different stocks. 
+The information Bot is a telegram bot capable of telling the plot and genres of movies as well as the stock prices for various different stocks. It is also built with the the fuctionality of responding to an ever increasing set of of greetings.
 
 ## Development
 This bot is still under development. The functionality for movies is up and running and can be viewed through telegram. 
