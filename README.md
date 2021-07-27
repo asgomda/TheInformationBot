@@ -2,10 +2,8 @@
 The information Bot is a telegram bot capable of telling the plot and genres of movies as well as the stock prices for various different stocks. It is also built with the the fuctionality of responding to an ever increasing set of of greetings.
 
 ## Development
-This bot is still under development. The functionality for movies is up and running and can be viewed through telegram. 
+The bot uses the imdb and yahoo finance api to provide information about movies and the stock market. 
+The bot is up and running and ca be viewed through telegram. 
 <img src="theInformationBot.png" width="400">
-
-## Issues
-- The main issue to resolve is that the bot currently only displays the first movie which matches the search criteria. 
-- The second issue is that the bot is running locally and would need to be moved to a server to ensure constant access.
-- The financial stock market feature would also need to be implemented
+<img src="TheInformationBotMovie.png" width="400">
+<img src="TheInformationBotWSB.png" width="400">
